@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `machuda`,
+      href: "https://machuda.kr/",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "logo-blog",
-    description: "welcome to logo-blog!",
+    title: "lofo-blog",
+    description: "welcome to lofo-blog!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
