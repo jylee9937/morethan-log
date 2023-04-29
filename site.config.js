@@ -24,12 +24,12 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://lofo.im",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F05a49eee-33f8-4855-ad88-a4f8e25f14d0%2Fda00d2079cd28dae09cd9f74bc5fb8fa-sticker.png?table=block&id=c1dfd392-803b-4bfe-a92d-a8b15e43a9eb&spaceId=ba590aea-941b-4746-8030-5bf3fd286530&width=250&userId=cc8b7831-9799-460d-8183-b727675dea2c&cache=v2", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Blog", "Website", "Notion"],
+    keywords: ["Blog", "Website", "Lofo", "Christian"],
   },
 
   // notion configuration (required)
